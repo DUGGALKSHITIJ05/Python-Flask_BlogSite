@@ -1,0 +1,28 @@
+body{
+    background-color: #303030!important;
+    color:whitesmoke!important;
+}
+.black{
+    background-color: #111111!important;
+    color: whitesmoke;
+}
+.center{
+    align-items: center;
+    text-align: center;
+}
+.m50{
+    margin-left: 50%;
+}
+.table:hover{
+    background-color: #303030ad!important;
+}
+.logo{
+    height: 20px!important;
+    width: 20px!important;
+    display: inline;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.deadlink{
+    text-decoration: none!important;
+}
